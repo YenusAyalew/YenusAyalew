@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yenusayalew&label=Profile%20views&color=0e75b6&style=flat" alt="yenusayalew" /> </p>
 
-- 🔭 I’m currently working on **school projects and hands-on data science practice**  
-- 🌱 I’m actively learning ** Data Visualization, Python, R, SQL, Machine Learning, NLP, and Web Scraping**  
-- 💬 Ask me about **Python, R, Data Wrangling, Machine Learning, NLP, Visualization, Web Scraping**  
+- 🔭 I’m currently working on school projects and hands-on data science practice
+- 🌱 I’m actively learning Data Visualization, Python, R, SQL, Machine Learning, NLP, and Web Scraping  
+- 💬 Ask me about Python, R, Data Wrangling, Machine Learning, NLP, Visualization, and Web Scraping 
 - 📫 How to reach me: **yenusibrahim2178@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
