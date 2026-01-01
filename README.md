@@ -42,10 +42,11 @@
 
 <h3 align="left">Goals:</h3>
 <p align="left">
-- Build strong foundations in **Python, R, Machine Learning, and NLP**  
-- Become an **expert in Data Science**  
-- Develop hands-on experience with real-world data projects  
 - Master Git & GitHub workflows for reproducible work
+- Build strong foundations in Python, R, Machine Learning, and NLP
+- Become an expert in Data Science
+
+- Develop hands-on experience with real-world data projects
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yenusayalew&show_icons=true&locale=en&layout=compact" alt="yenusayalew" /></p>
