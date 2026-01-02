@@ -71,11 +71,5 @@ Aspiring Data Scientist & AI Enthusiast | Master’s Student in Data Science for
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YenusAyalew&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 <h3 align="center">Thank you for visiting my profile! 😊</h3>
