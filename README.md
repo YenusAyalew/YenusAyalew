@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yenus Ibrahim Ayalew</h1>
 <h3 align="center">
-Aspiring Data Scientist & AI Enthusiast | Master’s Student in Data Science for Public Policy at Hertie School
+Junior Data Scientist & AI Enthusiast | Master’s Student in Data Science for Public Policy at Hertie School
 </h3>
 
 <p align="left">
@@ -8,15 +8,15 @@ Aspiring Data Scientist & AI Enthusiast | Master’s Student in Data Science for
 </p>
 
 - 🔭 I’ve completed several hands-on data projects:  
-  - <b>Excel Projects</b> – Data cleaning, analysis, and visualization using formulas, pivot tables, and charts.  
-  - <b>Power BI Projects</b> – Built interactive dashboards and reports for data exploration and presentation.  
-  - <b>Tableau Projects</b> – Created visual stories and dashboards to communicate data insights effectively.  
-  - <b>R Programming Fundamentals</b> – Learned basic R, data structures, calculations, and R Markdown workflows.  
-  - <b>Data Wrangling & Function Building in R</b> – Cleaned, transformed datasets, and created reusable functions.  
-  - <b>Web Scraping with R</b> – Collected and structured web-based data for analysis.  
-  - <b>R Data Visualization</b> – Generated charts and visual stories using ggplot2.  
-  - <b>Flexdashboard Dashboards</b> – Built interactive dashboards to explore and present data dynamically.  
-  - <b>Kickstarter SQL Analysis (MySQL)</b> – Analyzed project success, categories, and trends using SQL queries.  
+  1. <b>Excel Projects</b> – Worked on real datasets to clean and organize data using formulas, conditional formatting, pivot tables, and charts. Learned how to summarize and visualize large datasets for easy interpretation.  
+  2. <b>Power BI Projects</b> – Built interactive dashboards combining multiple data sources, creating filters, slicers, and drill-down reports to communicate insights effectively. Focused on data storytelling and user-friendly visualizations.  
+  3. <b>Tableau Projects</b> – Designed dashboards and visual stories with real datasets, including KPI tracking, trend analysis, and comparative charts to highlight key insights for decision-making.  
+  4. <b>R Programming Fundamentals</b> – Practiced the basics of R including vectors, data frames, control structures, functions, and R Markdown to create reproducible analysis workflows.  
+  5. <b>Data Wrangling & Function Building in R</b> – Cleaned, transformed, and merged datasets using dplyr and tidyr. Built reusable functions to automate repetitive tasks and improve analysis efficiency.  
+  6. <b>Web Scraping with R</b> – Collected and structured web data using rvest and other packages, transforming raw HTML tables into tidy data frames ready for analysis.  
+  7. <b>R Data Visualization</b> – Created informative and visually appealing charts using ggplot2, including bar plots, line charts, heatmaps, and multi-faceted plots for exploratory data analysis.  
+  8. <b>Flexdashboard Dashboards</b> – Developed interactive dashboards in R with Flexdashboard, embedding visualizations and summary tables for dynamic, user-friendly reporting.  
+  9. <b>Kickstarter SQL Analysis (MySQL)</b> – Performed detailed analysis of Kickstarter campaigns, including success trends, category performance, backer behavior, and funding goal patterns using SQL queries and aggregation functions.  
 
 - 🌱 I am currently learning: Python, Machine Learning, Deep Learning, NLP, and AI.  
 - 💬 Ask me about Excel, Power BI, Tableau, R, SQL, Data Wrangling, Visualization, and Web Scraping.  
@@ -61,17 +61,17 @@ Aspiring Data Scientist & AI Enthusiast | Master’s Student in Data Science for
 ---
 
 <h3 align="left">Projects:</h3>
-<ul>
+<ol>
   <li>📊 <b>Excel Projects</b> – Data cleaning, analysis, pivot tables, and charts for meaningful insights.</li>
-  <li>📈 <b>Power BI Projects</b> – Interactive dashboards to explore and present data clearly.</li>
-  <li>📊 <b>Tableau Projects</b> – Visual storytelling and dashboards for effective data communication.</li>
-  <li>📘 <b>R Programming Fundamentals</b> – Learned basic R, data structures, and R Markdown workflows.</li>
-  <li>🧹 <b>Data Wrangling & Function Building in R</b> – Cleaned and transformed datasets and created reusable functions.</li>
-  <li>🌐 <b>Web Scraping with R</b> – Collected and structured web-based data for analysis.</li>
-  <li>📊 <b>R Data Visualization</b> – Built charts and visual stories using ggplot2.</li>
-  <li>📈 <b>Flexdashboard Dashboards</b> – Interactive dashboards to explore and present data dynamically.</li>
-  <li>🗄️ <b>Kickstarter SQL Analysis (MySQL)</b> – Analyzed project success, categories, and trends using SQL queries.</li>
-</ul>
+  <li>📈 <b>Power BI Projects</b> – Built interactive dashboards with filters, slicers, and drill-downs to communicate insights effectively.</li>
+  <li>📊 <b>Tableau Projects</b> – Designed dashboards and visual stories for KPI tracking, trend analysis, and comparative insights.</li>
+  <li>📘 <b>R Programming Fundamentals</b> – Practiced vectors, data frames, control structures, functions, and R Markdown for reproducible analysis.</li>
+  <li>🧹 <b>Data Wrangling & Function Building in R</b> – Cleaned, merged, and transformed datasets using dplyr and tidyr; built reusable functions to automate tasks.</li>
+  <li>🌐 <b>Web Scraping with R</b> – Collected web-based data using rvest and structured it into tidy data frames for analysis.</li>
+  <li>📊 <b>R Data Visualization</b> – Created bar plots, line charts, heatmaps, and multi-faceted plots using ggplot2 to explore data visually.</li>
+  <li>📈 <b>Flexdashboard Dashboards</b> – Developed interactive R dashboards combining visualizations and summary tables for dynamic reporting.</li>
+  <li>🗄️ <b>Kickstarter SQL Analysis (MySQL)</b> – Analyzed Kickstarter projects’ success, category performance, and funding trends using SQL queries.</li>
+</ol>
 
 ---
 
