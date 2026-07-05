@@ -107,7 +107,7 @@ Analysis of official COVID-19 data from Landesamt für Gesundheit und Soziales B
 
 | Course | Key Topics |
 |---|---|
-| **Machine Learning** (Prof. Drew Dimmery) | Neural networks, CNNs, RNNs, boosting, SHAP/LIME, conformal inference, Gaussian processes, unsupervised learning |
+| **Machine Learning**  | Neural networks, CNNs, RNNs, boosting, SHAP/LIME, conformal inference, Gaussian processes, unsupervised learning |
 | **Causal Inference** | DiD, staggered DiD, Callaway-Sant'Anna, Goodman-Bacon decomposition, IV estimation, collider bias |
 | **Data Structures & Algorithms** | Algorithm complexity, matrix multiplication, Strassen's algorithm, Flask API development |
 | **Data Engineering** | ETL pipelines, SQL, database design, reproducible workflows |
