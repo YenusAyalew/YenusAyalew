@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yenus Ibrahim Ayalew</h1>
-<h3 align="center">Health Data Scientist | Digital Health Specialist</h3>
+<h3 align="center">Health Data Scientist |Health Data Engineer |Digital Health Enthuasist</h3>
 <h4 align="center">MSc Data Science for Public Policy @ Hertie School Berlin | Health Data Spaces Intern @ GIZ</h4>
 
 <p align="left">
