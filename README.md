@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yenus Ibrahim Ayalew</h1>
-<h3 align="center">Health Data Scientist |Health Data Engineer |Digital Health Enthuasist</h3>
+<h3 align="center">Health Data Scientist | Health Data Engineer | Digital Health Enthusiast</h3>
 <h4 align="center">MSc Data Science for Public Policy @ Hertie School Berlin | Health Data Spaces Intern @ GIZ</h4>
 
 <p align="left">
@@ -10,19 +10,19 @@
 
 ## 🌍 About Me
 
-I am a health data scientist with hands-on experience building clinical data pipelines, implementing interoperability standards, and running real world evidence analyses on electronic health record data.
+I'm a health data scientist working at the intersection of clinical data, interoperability standards, and public health policy. My background spans building EMR pipelines in low-resource settings, profiling data to global health standards, and running real-world evidence analyses on health records.
 
-I led the on-site implementation of an **OpenMRS-based EMR system** at a hospital in Ethiopia — configuring **HL7 FHIR R4** interfaces, mapping clinical data to **LOINC** and **SNOMED CT** terminologies, and managing the full ETL pipeline from paper records to a structured clinical data repository.
+I was part of the on-site implementation of an **OpenMRS-based EMR system** at a hospital in Ethiopia — configuring **HL7 FHIR R4** interfaces, mapping clinical data to **LOINC** and **SNOMED CT** terminologies, and supporting the ETL pipeline that took paper records into a structured clinical data repository.
 
-I have hands-on experience with the **OMOP Common Data Model** and **OHDSI R packages** — including **CohortDiagnostics**, **FeatureExtraction**, and **PatientLevelPrediction** — for cohort characterisation, feasibility analyses, and real world evidence studies across federated data networks.
+I'm also exploring the **OMOP Common Data Model** and the **OHDSI** ecosystem — tools like CohortDiagnostics, FeatureExtraction, and PatientLevelPrediction — as they relate to cohort characterisation and federated real-world evidence research.
 
-Currently interning at **GIZ** working on health data interoperability and federated data architecture across four African countries.
+Right now I'm interning at **GIZ**, working on health data interoperability and federated data architecture across four African countries.
 
 ---
 
 ## 🔬 Technical Focus
 
-- 📦 **OHDSI / OMOP CDM** — CohortDiagnostics, FeatureExtraction, PatientLevelPrediction, federated RWE studies
+- 📦 **OHDSI / OMOP CDM** (exploratory) — familiarity with CohortDiagnostics, FeatureExtraction, and PatientLevelPrediction concepts for federated RWE studies
 - 🔗 **Health Interoperability** — HL7 FHIR R4 profiling, SNOMED CT, LOINC, ICD-10, OpenHIE, HAPI FHIR, OpenMRS, DHIS2
 - 🏗️ **Data Engineering** — ETL pipelines, clinical data repositories, data quality assessment, OMOP CDM mapping
 - 🤖 **Machine Learning** — supervised/unsupervised learning, neural networks, boosting, explainable AI (SHAP/LIME), uncertainty quantification
@@ -117,9 +117,10 @@ Analysis of official COVID-19 data from Landesamt für Gesundheit und Soziales B
 
 ## 📚 Selected Publications
 
-- **Ayalew YI et al.** Health professionals' readiness for telemedicine implementation in public hospitals, South Ethiopia. *Frontiers in Digital Health*, 2025. [doi:10.3389/fdgth.2025.1554199](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1554199/full)
-- Knowledge of reproductive-age women about MTCT of HIV — Systematic review & meta-analysis. PROSPERO: CRD42024620895 *(Under review, Journal of the International AIDS Society)*
-- Co-Designing an Integrated Intervention Package to Strengthen Adolescent SRH Services in Southern Ethiopia *(Under review, PLOS Global Public Health)*
+1. **Ayalew YI et al.** Health professionals' readiness for telemedicine implementation in public hospitals, South Ethiopia. *Frontiers in Digital Health*, 2025. [doi:10.3389/fdgth.2025.1554199](https://doi.org/10.3389/fdgth.2025.1554199)
+2. **Belete AG, Shimbre MS, Ibrahim Y et al.** Knowledge of reproductive-age women about MTCT of HIV: systematic review and meta-analysis. *Systematic Reviews*, 2026;15(1):96. [doi:10.1186/s13643-026-03099-9](https://doi.org/10.1186/s13643-026-03099-9) · PMID: 41703666 · PROSPERO: CRD42024620895
+3. **Sidamo NB, ..., Ibrahim Y et al.** Co-Designing an Integrated Intervention Package to Strengthen Adolescent SRH Services in Southern Ethiopia. *medRxiv*, Jan 2026. [doi:10.64898/2026.01.13.26344084](https://doi.org/10.64898/2026.01.13.26344084) — *Under review: PLOS Global Public Health*
+4. **Degaga TS, Ibrahim Y et al.** Community preferences for different primaquine regimens for Plasmodium vivax malaria: Evidence from a Discrete Choice Experiment. *Target: The Lancet Regional Health – Africa* (Under review, 2026)
 
 ---
 
